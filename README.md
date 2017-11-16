@@ -5,7 +5,6 @@ This Poolsoftware is especially for hashcash only
 Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
-
 #### Table of Contents
 * [Features](#features)
 * [Community Support](#community--support)
@@ -71,6 +70,7 @@ Comes with lightweight example front-end script which uses the pool's AJAX API.
 
 
 ### Community / Support
+
 
 * [HashCash Discord](https://discord.gg/9wmzzhH)
 
